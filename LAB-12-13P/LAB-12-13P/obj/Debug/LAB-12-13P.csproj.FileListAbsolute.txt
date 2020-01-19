@@ -1,0 +1,5 @@
+F:\7th Semester\DC\PRACTICE-LABS\LAB-12-13P\LAB-12-13P\bin\Debug\LAB-12-13P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB-12-13P\LAB-12-13P\bin\Debug\LAB-12-13P.pdb
+F:\7th Semester\DC\PRACTICE-LABS\LAB-12-13P\LAB-12-13P\obj\Debug\LAB-12-13P.csprojAssemblyReference.cache
+F:\7th Semester\DC\PRACTICE-LABS\LAB-12-13P\LAB-12-13P\obj\Debug\LAB-12-13P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB-12-13P\LAB-12-13P\obj\Debug\LAB-12-13P.pdb

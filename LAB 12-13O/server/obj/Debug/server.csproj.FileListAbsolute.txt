@@ -1,0 +1,21 @@
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client-server\bin\Debug\client-server.exe.config
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client-server\obj\Debug\client-server.exe
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client-server\obj\Debug\client-server.pdb
+F:\C-S\client-server\bin\Debug\client-server.exe.config
+F:\C-S\client-server\bin\Debug\client-server.exe
+F:\C-S\client-server\bin\Debug\client-server.pdb
+F:\C-S\client-server\obj\Debug\server.csprojAssemblyReference.cache
+F:\C-S\client-server\obj\Debug\client-server.exe
+F:\C-S\client-server\obj\Debug\client-server.pdb
+F:\Client-server\server\bin\Debug\client-server.exe.config
+F:\Client-server\server\bin\Debug\client-server.exe
+F:\Client-server\server\bin\Debug\client-server.pdb
+F:\Client-server\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\Client-server\server\obj\Debug\client-server.exe
+F:\Client-server\server\obj\Debug\client-server.pdb
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\bin\Debug\client-server.exe
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\bin\Debug\client-server.pdb
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\bin\Debug\client-server.exe.config
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\obj\Debug\client-server.exe
+F:\7th Semester\DC\LAB\LAB 12-13\Client-server\server\obj\Debug\client-server.pdb

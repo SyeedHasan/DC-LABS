@@ -1,0 +1,6 @@
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\bin\Debug\client.exe.config
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\bin\Debug\client.exe
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\bin\Debug\client.pdb
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\obj\Debug\client.exe
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\obj\Debug\client.pdb
+C:\Users\Bilal Ahmad\Documents\Visual Studio 2015\Projects\client-server\client\obj\Debug\client.csprojResolveAssemblyReference.cache
