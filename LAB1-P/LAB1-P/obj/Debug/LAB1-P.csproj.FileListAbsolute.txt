@@ -1,0 +1,13 @@
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\bin\Debug\LAB1-P.exe.config
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\bin\Debug\LAB1-P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\bin\Debug\LAB1-P.pdb
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Form1.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Retrieve.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Update.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Insert.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Delete.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1_P.Properties.Resources.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1-P.csproj.GenerateResource.cache
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1-P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1-P.pdb
+F:\7th Semester\DC\PRACTICE-LABS\LAB1-P\LAB1-P\obj\Debug\LAB1-P.csprojAssemblyReference.cache
