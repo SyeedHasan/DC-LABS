@@ -1,0 +1,8 @@
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\bin\Debug\LAB-10-11P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\bin\Debug\LAB-10-11P.pdb
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB-10-11P.csprojAssemblyReference.cache
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB_10_11P.Form1.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB_10_11P.Properties.Resources.resources
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB-10-11P.csproj.GenerateResource.cache
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB-10-11P.exe
+F:\7th Semester\DC\PRACTICE-LABS\LAB-10-11P\LAB-10-11P\obj\Debug\LAB-10-11P.pdb
